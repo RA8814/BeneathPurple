@@ -6,5 +6,5 @@
 Using ctrl+k is a shortcut for turning something into a [link](https://www.youtube.com/watch?v=WqKluXIra70). 
 Double-tapping the left \[ bracket will produce a "link" to another [[Section|section]] within obsidian.
 # This is a heading
-## This is a subheadin
+## This is a subheading
 
