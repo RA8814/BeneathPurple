@@ -1,0 +1,13 @@
+**Pre-Learning:** Mastering a  subject is like taking a long hike, and we need to know what route we're going to go on before we set out. This involves doing research and sketching out a roadmap of:
+1. What we're going to learn
+2. What order we're going to learn it in
+3. How we're going to learn it
+This process should not lead to procrastination. Set yourself a hard deadline for when prelearning should end dependant on the size of the project, but no more than 10% of the project's scope should be taken up in this research phase.
+
+Principles:
+**1.) Focus:** Focused vs. Unfocused learning. Focusing comes down to limiting external distractions (phone, people, etc..), limiting internal distractions (stress, anxiety, perfectionism, etc...), and training focus specifically as a skill (through meditation, consistency, and self-reflection)
+**2.) Directedness:** For everything we learn, there is a specific scenario or set of scenarios that we are training for. I.e. training should be done with specificity, and then abstracted into broader scenarios. Your method of learning should never steer too far from the context in which you wish to use them. (Don't study history with flash cards, instead try writing an essay about a subject from memory, as that explanatory power will be how this skill is utilised in real life)
+**3.) Drilling:** Detecting weaknesses and gaps in knowledge, isolating those weaknesses, and then attempting to bring them up to the same level as your other skills on that subject. Bottlenecks can be formed in a process of studying such that your desired goals cannot be achieved with those gaps in place, or even worse, they can be achieved at multiple orders of magnitude of time spent, despite the strength of the other aspects. This can be fixed with hyper-specific training (drilling vocab memorization, or reviewing fundamentals of your coding language). In any scenario, you begin with direct practice, identify a weakness, spend time correcting it with specific drilling, then return to direct practice (this is how any skill can be mastered).
+
+The Next Level:
+Intuition: the sum total of our knowledge about the world distilled into a feeling. The ability to cut through the noise of excess directions and make a strong claim in the face of vast quantities of information. Once a skill starts functioning within the parameters of intuition consistently, then that skill is honed to at least some level of mastery. Then, the goal should be to strive for the greatest goal of mastery possible.
